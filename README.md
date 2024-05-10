@@ -1,4 +1,3 @@
-```
 //-- Nick Rucinski --//
 
 // @NickRucinski is my school account     
@@ -8,17 +7,16 @@
 
 //------------------------------------------------------//
 
-/* used languages/technologies: *
-  *
-  * C
-  * C++
-  * Java
-  * Kotlin
-  * ---------
-  * Android / Jetpack Compose
-  *
+/* used languages/technologies: * \
+&ensp;&ensp;&ensp;&ensp;* \
+&ensp;&ensp;&ensp;&ensp;* C \
+&ensp;&ensp;&ensp;&ensp;* C++ \
+&ensp;&ensp;&ensp;&ensp;* Java \
+&ensp;&ensp;&ensp;&ensp;* Kotlin \
+&ensp;&ensp;&ensp;&ensp;* --------- \
+&ensp;&ensp;&ensp;&ensp;* Android / Jetpack Compose \
+&ensp;&ensp;&ensp;&ensp;* \
 **/
-```
 
 // See [Projects](https://github.com/NicholasRucinski/NicholasRucinski/blob/main/Projects.md)
 
