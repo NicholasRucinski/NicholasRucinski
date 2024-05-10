@@ -1,1 +1,18 @@
-
+```
+{
+  "2024": [
+    {
+      "project_name": "Virtual Chess",
+      "team_size": 5,
+      "description": "Java chess application with player vs player and player vs computer modes",
+      "link": "https://github.com/cis3296s24/03-VirtualChess"
+    },
+    {
+      "project_name": "LocalSky",
+      "team_size": 4,
+      "description": "An Android weather app that allows users to upload information about their current weather conditions",
+      "link": "https://github.com/TULocalSky/localsky"
+    }
+  ]
+}
+```
