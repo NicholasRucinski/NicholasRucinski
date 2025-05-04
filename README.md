@@ -7,8 +7,9 @@
 
 //------------------------------------------------------//
 
-/* used languages/technologies: * \
-&ensp;&ensp;&ensp;&ensp;* \
+/** \
+&ensp;&ensp;&ensp;&ensp;* used languages/technologies: \
+&ensp;&ensp;&ensp;&ensp;* --------- \
 &ensp;&ensp;&ensp;&ensp;* C \
 &ensp;&ensp;&ensp;&ensp;* C++ \
 &ensp;&ensp;&ensp;&ensp;* Java \
