@@ -1,16 +1,24 @@
 {
   "2024": [
     {
-      "project_name": "Virtual Chess",
+      "name": "Virtual Chess",
       "team_size": 5,
       "description": "Java chess application with player vs player and player vs computer modes",
-      "link": "https://github.com/cis3296s24/03-VirtualChess"
+      "repoUrl": "https://github.com/cis3296s24/03-VirtualChess"
     },
     {
-      "project_name": "LocalSky",
+      "name": "LocalSky",
       "team_size": 4,
       "description": "An Android weather app that allows users to upload information about their current weather conditions",
-      "link": "https://github.com/TULocalSky/localsky"
+      "repoUrl": "https://github.com/TULocalSky/localsky"
+    }
+  ],
+  "2025": [
+    {
+      "name": "CLOVER",
+      "team_size": 5,
+      "description": "An AI coding assistant, like GitHub Copilot, that provides interventions to help new programmers.",
+      "repoUrl": "https://github.com/Capstone-Projects-2025-Spring/project-copilot-clone-2"
     }
   ]
 }
