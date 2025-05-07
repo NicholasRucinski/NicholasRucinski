@@ -19,7 +19,7 @@
       "name": "CLOVER",
       "team_size": 5,
       "description": "An AI coding assistant, like GitHub Copilot, that provides interventions to help new programmers.",
-      "repoUrl": "https://github.com/Capstone-Projects-2025-Spring/project-copilot-clone-2"
+      "repoUrl": "https://github.com/Capstone-Projects-2025-Spring/project-copilot-clone-2",
       "previewImage": "https://raw.githubusercontent.com/NicholasRucinski/NicholasRucinski/refs/heads/main/images/clover.png"
     }
   ]
