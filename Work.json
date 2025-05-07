@@ -1,0 +1,27 @@
+{
+  "Related": [
+    {
+      "role": "HCI Lab Assistant",
+      "company": "Temple University",
+      "startDate": "May 2025",
+      "endDate": "Present",
+      "description": "Assisted in building the CLOVER application to study the effects of AI on new programmers."
+    }
+  ],
+  "Nonrelated": [
+    {
+      "role": "Beer Garden Associate",
+      "company": "Giant Food Stores",
+      "startDate": "May 2023",
+      "endDate": "Present",
+      "description": "Stocked shelves and assisted customers with checkout."
+    },
+    {
+      "role": "Delivery Driver / Shop From Home Shopper",
+      "company": "ShopRite",
+      "startDate": "August 2019",
+      "endDate": "December 2021",
+      "description": "Picked items for customers and delivered them. I would also manage orders when there was no manager on duty."
+    }
+  ]
+}
