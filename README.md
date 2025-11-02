@@ -1,9 +1,6 @@
 //-- Nick Rucinski --//
 
-// @NickRucinski is my school account     
-// @NicholasRucinski is my personal account
-
-// Interested in game and low-level development // pursuing my B.S. in C.S. @ Temple University
+// Interested in game and low-level development // B.S. in C.S. from Temple University
 
 //------------------------------------------------------//
 
